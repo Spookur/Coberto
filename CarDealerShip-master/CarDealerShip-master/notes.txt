@@ -1,0 +1,3 @@
+Database also created in appharbour
+Server=64887d66-f4bb-477f-8fe6-a774003f5745.sqlserver.sequelizer.com;Database=db64887d66f4bb477f8fe6a774003f5745;User ID=dmphjzasdrfoobju;Password=ZJjpogacatnRYMQFaHqFYB7Uuh4m8tgTwAjbhadbCHsdSs2C8PGaUY8wKw3gkWdN;MultipleActiveResultSets=True;
+The above is the connection string...
